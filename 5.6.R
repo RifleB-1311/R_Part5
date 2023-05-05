@@ -1,0 +1,4 @@
+n <- 12
+m <- 4
+so_luong_ma <- n^m
+print(paste("S??? lu???ng mã thành viên có th??? t???o là: ", so_luong_ma))
